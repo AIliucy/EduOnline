@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4243c008-fd92-4160-87c1-4fa7c039bfb1" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MxOnline" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aFvsoLbTvxikmNVOW6XYSbT6Up" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyBlog" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/apps/courses" />
+      <recent name="$PROJECT_DIR$/apps/operations" />
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/apps/origanizations" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/apps/courses" />
+      <recent name="$PROJECT_DIR$/apps" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MxOnline" type="Python.DjangoServer" factoryName="Django server">
+      <module name="EduOnline" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="MxOnline.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4243c008-fd92-4160-87c1-4fa7c039bfb1" name="默认更改列表" comment="" />
+      <created>1586344365654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586344365654</updated>
+      <workItem from="1586344375150" duration="5649000" />
+      <workItem from="1586423664424" duration="6889000" />
+      <workItem from="1586503582881" duration="16759000" />
+      <workItem from="1586593399243" duration="10317000" />
+      <workItem from="1586666676649" duration="15941000" />
+      <workItem from="1586760050433" duration="2755000" />
+      <workItem from="1586854302329" duration="14815000" />
+      <workItem from="1586924913906" duration="10656000" />
+      <workItem from="1587010545696" duration="9599000" />
+      <workItem from="1587096759512" duration="18596000" />
+      <workItem from="1587184469708" duration="17898000" />
+      <workItem from="1587268524248" duration="25022000" />
+      <workItem from="1587356428689" duration="14372000" />
+      <workItem from="1587444198628" duration="4422000" />
+      <workItem from="1587471468859" duration="13140000" />
+      <workItem from="1587531803591" duration="11936000" />
+      <workItem from="1587615149437" duration="11815000" />
+      <workItem from="1587702257346" duration="7389000" />
+      <workItem from="1587786111516" duration="21084000" />
+      <workItem from="1587878852010" duration="17077000" />
+      <workItem from="1587962616892" duration="3911000" />
+      <workItem from="1587994908486" duration="3700000" />
+      <workItem from="1588047903587" duration="11431000" />
+      <workItem from="1588170324804" duration="1985000" />
+      <workItem from="1589567514527" duration="1530000" />
+      <workItem from="1590497772175" duration="323000" />
+      <workItem from="1590498302489" duration="647000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="416" y="144" width="524" height="503" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586707492722">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="416" y="144" width="524" height="503" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.28.1366.740@0.28.1366.740" timestamp="1586707492722" />
+    <state width="745" height="540" key="DebuggerActiveHint" timestamp="1587566908370">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="745" height="540" key="DebuggerActiveHint/0.28.1366.740@0.28.1366.740" timestamp="1587566908370" />
+    <state x="466" y="156" width="424" height="480" key="FileChooserDialogImpl" timestamp="1590498952813">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="466" y="156" width="424" height="480" key="FileChooserDialogImpl/0.28.1366.740@0.28.1366.740" timestamp="1590498952813" />
+    <state width="1312" height="6" key="GridCell.Tab.0.bottom" timestamp="1589569048677">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1312" height="6" key="GridCell.Tab.0.bottom/0.28.1366.740@0.28.1366.740" timestamp="1589569048677" />
+    <state width="1312" height="6" key="GridCell.Tab.0.center" timestamp="1589569048675">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1312" height="6" key="GridCell.Tab.0.center/0.28.1366.740@0.28.1366.740" timestamp="1589569048675" />
+    <state width="1312" height="6" key="GridCell.Tab.0.left" timestamp="1589569048674">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1312" height="6" key="GridCell.Tab.0.left/0.28.1366.740@0.28.1366.740" timestamp="1589569048674" />
+    <state width="1312" height="6" key="GridCell.Tab.0.right" timestamp="1589569048676">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1312" height="6" key="GridCell.Tab.0.right/0.28.1366.740@0.28.1366.740" timestamp="1589569048676" />
+    <state width="1312" height="42" key="GridCell.Tab.1.bottom" timestamp="1587744839454">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1312" height="42" key="GridCell.Tab.1.bottom/0.28.1366.740@0.28.1366.740" timestamp="1587744839454" />
+    <state width="1312" height="42" key="GridCell.Tab.1.center" timestamp="1587744839453">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1312" height="42" key="GridCell.Tab.1.center/0.28.1366.740@0.28.1366.740" timestamp="1587744839453" />
+    <state width="1312" height="42" key="GridCell.Tab.1.left" timestamp="1587744839453">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1312" height="42" key="GridCell.Tab.1.left/0.28.1366.740@0.28.1366.740" timestamp="1587744839453" />
+    <state width="1312" height="42" key="GridCell.Tab.1.right" timestamp="1587744839453">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1312" height="42" key="GridCell.Tab.1.right/0.28.1366.740@0.28.1366.740" timestamp="1587744839453" />
+    <state x="164" y="33" key="SettingsEditor" timestamp="1589568104633">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="164" y="33" key="SettingsEditor/0.28.1366.740@0.28.1366.740" timestamp="1589568104633" />
+    <state x="0" y="28" width="829" height="740" key="find.popup" timestamp="1590498926729">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="0" y="28" width="829" height="740" key="find.popup/0.28.1366.740@0.28.1366.740" timestamp="1590498926729" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
